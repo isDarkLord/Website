@@ -1,5 +1,5 @@
 
-## Website for Fahim & Prashant
+## Website for us
 Issues:
 
 1.Rows(Data/Index.tsx)
